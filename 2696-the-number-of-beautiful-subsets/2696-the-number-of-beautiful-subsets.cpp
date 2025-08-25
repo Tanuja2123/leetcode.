@@ -7,14 +7,16 @@ public:
             res++;
             return ;
         }
-        //not take
-        solve(idx+1, nums, k, mp);
+        
+        
         //take
         if( !mp[nums[idx]+k] && ! mp[nums[idx]-k]){
             mp[nums[idx]]++;
             solve(idx+1, nums, k,mp);
             mp[nums[idx]]--;
         }
+        //not take
+        solve(idx+1, nums, k, mp);
     }
     int beautifulSubsets(vector<int>& nums, int k) {
         unordered_map<int, int>mp;
