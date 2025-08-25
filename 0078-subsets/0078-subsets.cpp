@@ -4,15 +4,12 @@ public:
     vector<vector<int>> res;
     int n;
     void solve(vector<int>& nums, int id, vector<int>& temp) {
-        if (id >= n) {
-            res.push_back(temp);
-            return;
-        }
-        
-        temp.push_back(nums[id]);
-        solve(nums, id + 1, temp);
-        temp.pop_back();
-        solve(nums, id + 1, temp);
+       res.push_back(temp);
+       for(int i=id; i<n; i++){
+            temp.push_back(nums[i]);
+            solve(nums, i+1, temp);
+            temp.pop_back();
+       }
     }
 
 
