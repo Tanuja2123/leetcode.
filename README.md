@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tanuja2123/leetcode./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanuja2123/leetcode./tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0216-combination-sum-iii) |
+| [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Sorting
 |  |
