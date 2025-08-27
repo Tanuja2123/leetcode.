@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tanuja2123/leetcode./tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Tanuja2123/leetcode./tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanuja2123/leetcode./tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Tanuja2123/leetcode./tree/master/0046-permutations) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Tanuja2123/leetcode./tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Tanuja2123/leetcode./tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Tanuja2123/leetcode./tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
