@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Tanuja2123/leetcode./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanuja2123/leetcode./tree/master/0090-subsets-ii) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,8 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
+| [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 <!---LeetCode Topics End-->
