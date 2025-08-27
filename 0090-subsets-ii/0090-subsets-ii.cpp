@@ -2,21 +2,21 @@ class Solution {
 public:
     vector<vector<int>>res;
     int n;
-    void solve (vector<int>&temp, int start, vector<int>&nums){
+    void solve(vector<int>temp, vector<int>&nums, int id){
         res.push_back(temp);
-        for(int i=start; i<n; i++){ // not considering start but after start
-            if(i>start && nums[i]==nums[i-1] )continue;
+        for(int i=id; i<n; i++){
+            if(i>id && nums[i]==nums[i-1]) continue;
             temp.push_back(nums[i]);
-            solve(temp, i+1, nums);
+            solve(temp, nums, i+1);
             temp.pop_back();
         }
     }
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        //sorting most imp
-        sort(nums.begin(), nums.end());
         n=nums.size();
+        sort(nums.begin(), nums.end());
+
         vector<int>temp;
-        solve(temp, 0, nums);
+        solve(temp, nums, 0);
         return res;
     }
 };
