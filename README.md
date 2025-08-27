@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Tanuja2123/leetcode./tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tanuja2123/leetcode./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanuja2123/leetcode./tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Tanuja2123/leetcode./tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0216-combination-sum-iii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tanuja2123/leetcode./tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Tanuja2123/leetcode./tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
+| [0131-palindrome-partitioning](https://github.com/Tanuja2123/leetcode./tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
@@ -86,4 +88,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanuja2123/leetcode./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Tanuja2123/leetcode./tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Tanuja2123/leetcode./tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
