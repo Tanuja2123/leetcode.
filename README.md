@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/Tanuja2123/leetcode./tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Tanuja2123/leetcode./tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Tanuja2123/leetcode./tree/master/1670-patients-with-a-condition) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Tanuja2123/leetcode./tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tanuja2123/leetcode./tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
