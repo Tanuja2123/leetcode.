@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Tanuja2123/leetcode./tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Tanuja2123/leetcode./tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/Tanuja2123/leetcode./tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/Tanuja2123/leetcode./tree/master/0619-biggest-single-number) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Tanuja2123/leetcode./tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Tanuja2123/leetcode./tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Tanuja2123/leetcode./tree/master/1625-group-sold-products-by-the-date) |
