@@ -6,3 +6,5 @@ having count(num)=1
 order by num desc
 limit 1)
 as num;
+
+# return null if doesn't return anythin)
