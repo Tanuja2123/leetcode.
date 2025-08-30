@@ -1,11 +1,10 @@
 class Solution {
 public:
     vector<vector<string>>res;
-    int n;
-    bool ispali(string str){
-        int l=0, r=str.length()-1;
+    bool pali(string s){
+        int l=0, r=s.length()-1;
         while(l<r){
-            if(str[l]==str[r]){
+            if(s[l]==s[r]){
                 l++; r--;
             } else{
                 return false;
@@ -13,23 +12,24 @@ public:
         }
         return true;
     }
-    void solve(string s, vector<string>& temp, int id){
-        if(id==n){
+    void dfs(string s, int id, vector<string>temp){
+        if(id==s.length()){
             res.push_back(temp);
-            return ;
+            return;
         }
-        for(int i=id; i<n; i++){
-            if(ispali(s.substr(id, i-id+1))){ // id =start, len=i-id+1
-                temp.push_back(s.substr(id, i-id+1));
-                solve(s, temp, i+1);
+        for(int i=id; i<s.length(); i++){
+            string str= s.substr(id, i-id+1);
+            if(pali(str)){
+                temp.push_back(str);
+                dfs(s, i+1 ,temp);
                 temp.pop_back();
             }
         }
     }
     vector<vector<string>> partition(string s) {
-        n=s.length();
         vector<string>temp;
-        solve(s, temp, 0);
+        int id=0;
+        dfs(s, id, temp);
         return res;
     }
 };
