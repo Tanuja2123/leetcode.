@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tanuja2123/leetcode./tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tanuja2123/leetcode./tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tanuja2123/leetcode./tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanuja2123/leetcode./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0216-combination-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tanuja2123/leetcode./tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Tanuja2123/leetcode./tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanuja2123/leetcode./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Tanuja2123/leetcode./tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
