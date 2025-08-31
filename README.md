@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanuja2123/leetcode./tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Tanuja2123/leetcode./tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Tanuja2123/leetcode./tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tanuja2123/leetcode./tree/master/0040-combination-sum-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tanuja2123/leetcode./tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanuja2123/leetcode./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Tanuja2123/leetcode./tree/master/0037-sudoku-solver) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
