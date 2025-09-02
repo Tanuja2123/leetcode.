@@ -13,12 +13,11 @@
 class Solution {
 public:
     int dfs(TreeNode* root, long long target) {
-        if (!root) return 0;
-        int count = 0;
-        if (root->val == target) count++;
-
-        count += dfs(root->left, target - root->val);
-        count += dfs(root->right, target - root->val);
+        if(!root) return 0;
+        int count=0;
+        if(target==root->val) count++;
+        count += dfs(root->left, target-root->val);
+        count += dfs(root->right, target-root->val);
         return count;
     }
 
