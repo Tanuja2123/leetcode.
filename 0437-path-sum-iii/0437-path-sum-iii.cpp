@@ -12,18 +12,23 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root, long long target) {
+    unordered_map<long long ,int>presum;
+    int dfs(TreeNode* root, long long target, long long csum) {
         if(!root) return 0;
-        int count=0;
-        if(target==root->val) count++;
-        count += dfs(root->left, target-root->val);
-        count += dfs(root->right, target-root->val);
+        csum += root->val;
+        int count= presum[csum-target];
+        //vacktrack
+        presum[csum]++;
+        count += dfs(root->left, target, csum);
+        count += dfs(root->right, target,csum); //target not subtracted in this case
+        presum[csum]--;
         return count;
     }
 
     int pathSum(TreeNode* root, int targetSum) {
         if (!root) return 0;
+        presum[0]=1;
         // start from root + recurse on children
-        return dfs(root, targetSum) + pathSum(root->left, targetSum) + pathSum(root->right, targetSum);
+        return dfs(root, targetSum, 0) ;
     }
 };
