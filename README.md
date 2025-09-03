@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1331-path-with-maximum-gold](https://github.com/Tanuja2123/leetcode./tree/master/1331-path-with-maximum-gold) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Tanuja2123/leetcode./tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Math
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Search
 |  |
 | ------- |
