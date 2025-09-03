@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
+| [1331-path-with-maximum-gold](https://github.com/Tanuja2123/leetcode./tree/master/1331-path-with-maximum-gold) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Backtracking
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/Tanuja2123/leetcode./tree/master/0282-expression-add-operators) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
+| [1331-path-with-maximum-gold](https://github.com/Tanuja2123/leetcode./tree/master/1331-path-with-maximum-gold) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Bit Manipulation
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tanuja2123/leetcode./tree/master/0079-word-search) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
+| [1331-path-with-maximum-gold](https://github.com/Tanuja2123/leetcode./tree/master/1331-path-with-maximum-gold) |
 ## Breadth-First Search
 |  |
 | ------- |
