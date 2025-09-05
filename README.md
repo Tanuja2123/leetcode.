@@ -226,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanuja2123/leetcode./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanuja2123/leetcode./tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tanuja2123/leetcode./tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
