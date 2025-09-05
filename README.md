@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Tanuja2123/leetcode./tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Tanuja2123/leetcode./tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/Tanuja2123/leetcode./tree/master/0282-expression-add-operators) |
+| [0482-license-key-formatting](https://github.com/Tanuja2123/leetcode./tree/master/0482-license-key-formatting) |
 | [1532-reformat-the-string](https://github.com/Tanuja2123/leetcode./tree/master/1532-reformat-the-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Depth-First Search
