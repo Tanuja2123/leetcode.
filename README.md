@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 ## Prefix Sum
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Tree
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 ## Binary Search
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Tanuja2123/leetcode./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Linked List
 |  |
 | ------- |
