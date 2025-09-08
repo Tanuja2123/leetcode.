@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tanuja2123/leetcode./tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/Tanuja2123/leetcode./tree/master/0563-binary-tree-tilt) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tanuja2123/leetcode./tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/Tanuja2123/leetcode./tree/master/0563-binary-tree-tilt) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Tanuja2123/leetcode./tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/Tanuja2123/leetcode./tree/master/0563-binary-tree-tilt) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
