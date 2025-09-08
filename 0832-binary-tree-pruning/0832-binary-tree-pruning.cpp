@@ -11,18 +11,16 @@
  */
 class Solution {
 public:
-//it can have 0-1-0 so dont prune based on left or right but on the basis of root->val if that is zero and left right doen't exist then pruneit 
-    TreeNode* solve(TreeNode* root){
+    TreeNode* solve(TreeNode *root){
         if(!root) return nullptr;
-        root->left= solve(root->left); //last case before nullptr
-        root->right= solve(root->right);
+        root->left=solve(root->left); //root->left shld change to root->left
+        root->right=solve(root->right);
         if(root->val==0 && !root->left && !root->right){
             return nullptr;
         }
-        return root; // if null already not returned
+        return root;
     }
     TreeNode* pruneTree(TreeNode* root) {
-        return solve(root);
-        
+       return solve(root);
     }
 };
