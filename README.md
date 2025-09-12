@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1331-path-with-maximum-gold](https://github.com/Tanuja2123/leetcode./tree/master/1331-path-with-maximum-gold) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
+| [3541-report-spam-message](https://github.com/Tanuja2123/leetcode./tree/master/3541-report-spam-message) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
+| [3541-report-spam-message](https://github.com/Tanuja2123/leetcode./tree/master/3541-report-spam-message) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Tanuja2123/leetcode./tree/master/0482-license-key-formatting) |
 | [1532-reformat-the-string](https://github.com/Tanuja2123/leetcode./tree/master/1532-reformat-the-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [3541-report-spam-message](https://github.com/Tanuja2123/leetcode./tree/master/3541-report-spam-message) |
 ## Depth-First Search
 |  |
 | ------- |
