@@ -10,7 +10,7 @@ public:
         }
         for (int i = 0; i < n; i++) {
             if (st.find(nums[i]) == st.end()) {
-                temp.push_back(nums[i]);
+                temp.push_back(nums[i]); //permutations with numbers
                 st.insert(nums[i]);
                 solve(nums, temp);
                 temp.pop_back();
