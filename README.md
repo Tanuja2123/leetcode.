@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanuja2123/leetcode./tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Tanuja2123/leetcode./tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tanuja2123/leetcode./tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Tanuja2123/leetcode./tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanuja2123/leetcode./tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Tanuja2123/leetcode./tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -291,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tanuja2123/leetcode./tree/master/0135-candy) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanuja2123/leetcode./tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tanuja2123/leetcode./tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
