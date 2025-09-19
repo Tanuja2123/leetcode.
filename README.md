@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tanuja2123/leetcode./tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanuja2123/leetcode./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Tanuja2123/leetcode./tree/master/0135-candy) |
+| [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 | [0216-combination-sum-iii](https://github.com/Tanuja2123/leetcode./tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tanuja2123/leetcode./tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanuja2123/leetcode./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Tanuja2123/leetcode./tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanuja2123/leetcode./tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tanuja2123/leetcode./tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Tanuja2123/leetcode./tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Tanuja2123/leetcode./tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 | [0282-expression-add-operators](https://github.com/Tanuja2123/leetcode./tree/master/0282-expression-add-operators) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Dynamic Programming
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tanuja2123/leetcode./tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
