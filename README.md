@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/Tanuja2123/leetcode./tree/master/1331-path-with-maximum-gold) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 | [3541-report-spam-message](https://github.com/Tanuja2123/leetcode./tree/master/3541-report-spam-message) |
+| [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 | [3541-report-spam-message](https://github.com/Tanuja2123/leetcode./tree/master/3541-report-spam-message) |
+| [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Tanuja2123/leetcode./tree/master/0222-count-complete-tree-nodes) |
+| [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -308,4 +311,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
+## Design
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
