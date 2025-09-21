@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tanuja2123/leetcode./tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tanuja2123/leetcode./tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/Tanuja2123/leetcode./tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Tanuja2123/leetcode./tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Tanuja2123/leetcode./tree/master/0222-count-complete-tree-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Tanuja2123/leetcode./tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Tanuja2123/leetcode./tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Tanuja2123/leetcode./tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Tanuja2123/leetcode./tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
