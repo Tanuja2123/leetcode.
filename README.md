@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Tanuja2123/leetcode./tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tanuja2123/leetcode./tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Tanuja2123/leetcode./tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Tanuja2123/leetcode./tree/master/0231-power-of-two) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Tanuja2123/leetcode./tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Tanuja2123/leetcode./tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
+| [0231-power-of-two](https://github.com/Tanuja2123/leetcode./tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Tanuja2123/leetcode./tree/master/0282-expression-add-operators) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Dynamic Programming
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Tanuja2123/leetcode./tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Tanuja2123/leetcode./tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Tanuja2123/leetcode./tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
