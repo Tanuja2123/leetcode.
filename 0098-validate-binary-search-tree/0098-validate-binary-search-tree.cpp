@@ -12,9 +12,9 @@
 class Solution {
 public:
     bool solve(TreeNode* root, long long minval, long long maxval){
-        if(!root) return 1;
+        if(!root) return true;
         if(root->val >=maxval || root->val <=minval) return false;
-        return solve(root->left, minval, root->val) && solve(root->right, root->val, maxval);
+        return solve(root->left, minval, root->val ) && solve(root->right, root->val, maxval);
     }
     bool isValidBST(TreeNode* root) {
         return solve(root, LLONG_MIN, LLONG_MAX);
