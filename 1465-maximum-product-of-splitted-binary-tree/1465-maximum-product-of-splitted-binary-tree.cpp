@@ -11,6 +11,7 @@
  */
 class Solution {
 public:
+// long long tsum and maxi
     long long tsum=0;
     long long maxi=0;
     const int mod= 1e9+7;
@@ -22,13 +23,17 @@ public:
         if(!root) return 0;
         long long l= dfs(root->left);
         long long r=dfs(root->right);
+        //calculate csum
         long long csum= root->val+r+l;
+        //find max answer possible
         maxi= max(csum * (tsum-csum), maxi);
+        //return the currsum
         return csum;
     }
     int maxProduct(TreeNode* root) {
         tsum= fsum(root);
         dfs(root);
+        // return maxi %mod, where mod= 1e9+7
         return maxi % mod;
     }
 };
