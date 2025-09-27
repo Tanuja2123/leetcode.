@@ -9,12 +9,13 @@
  */
 class Solution {
 public:
+    using tn= TreeNode*;
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(!root|| root==p || root==q) return root;
-        TreeNode* leftnode= lowestCommonAncestor(root->left, p, q);
-        TreeNode* rightnode= lowestCommonAncestor(root->right, p, q);
-        if(leftnode && rightnode) return root;
-        if(leftnode) return leftnode;
-        return rightnode;
+        if(!root || root==p || root==q) return root;
+        tn l= lowestCommonAncestor(root->left, p, q);
+        tn r= lowestCommonAncestor(root->right, p, q);
+        if(l && r) return root;
+        if(l) return l;
+        return r;
     }
 };
