@@ -11,29 +11,17 @@
  */
 class Solution {
 public:
-int diff = INT_MIN;
-void helper(TreeNode*root, int mini , int maxi)
-{
-    if( root==NULL) return ;
-    if( root->val > maxi)
-    {
-        maxi = root->val;
+    int diff = INT_MIN;
+    void solve(TreeNode* root, int mini, int maxi){
+        if(!root) return ;
+        if(root->val < mini) mini= root->val;
+        if(root->val > maxi) maxi= root->val;
+        diff= max(diff, abs(maxi-mini));
+        solve(root->left, mini, maxi);
+        solve(root->right, mini, maxi);
     }
-    if( root->val < mini)
-    {
-        mini = root->val;
-    }
-     if(abs( maxi - mini)> diff)
-     {
-        diff = maxi -mini;
-     }
-  helper(root->left, mini , maxi);
-  helper( root->right , mini , maxi);
-}
     int maxAncestorDiff(TreeNode* root) {
-        if( root==NULL)return 0;
-        helper( root, INT_MAX, INT_MIN);
+        solve(root,INT_MAX, INT_MIN);
         return diff;
-
     }
 };
