@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Tanuja2123/leetcode./tree/master/0563-binary-tree-tilt) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Tanuja2123/leetcode./tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0145-binary-tree-postorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/Tanuja2123/leetcode./tree/master/0563-binary-tree-tilt) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Tanuja2123/leetcode./tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
