@@ -12,12 +12,11 @@
 class Solution {
 public:
     vector<int>res;
-    void solve(TreeNode * root){
+    void solve(TreeNode* root){
         if(!root) return;
         res.push_back(root->val);
         solve(root->left);
         solve(root->right);
-
     }
     vector<int> preorderTraversal(TreeNode* root) {
         solve(root);
