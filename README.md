@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
