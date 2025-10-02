@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Tanuja2123/leetcode./tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Tanuja2123/leetcode./tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search
 |  |
