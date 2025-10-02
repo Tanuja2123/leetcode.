@@ -11,10 +11,12 @@
  */
 class Solution {
 public:
+    int csum=0;
     bool hasPathSum(TreeNode* root, int targetSum) {
-        if(!root) return false ; //works for first node only
-        if(!root->left && !root->right) return targetSum==root->val; //works for other ndoes
-        return hasPathSum(root->left , targetSum-root->val) || hasPathSum(root->right, targetSum-root->val);
-
+       if(!root) return false; // how can sum be zero when there is no node to be considered for the value of 0
+       if(!root->left && !root->right) return targetSum == root->val;
+       csum += root->val;
+       return hasPathSum(root->left, targetSum-root->val) || 
+       hasPathSum(root->right, targetSum-root->val);
     }
 };
