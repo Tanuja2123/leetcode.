@@ -12,21 +12,27 @@
 class Solution {
 public:
     vector<vector<int>>res;
-    void solve(TreeNode* root, int target, vector<int>path){
-        if(!root) return;
-        //target <0 condition not here coz target can be negative
-        path.push_back(root->val);
-        if(!root->right && !root->left && target==root->val){
-            res.push_back(path);
+    void solve(TreeNode* root, int target, vector<int>temp){
+        if(!root){
             return;
         }
-        solve(root->left, target-root->val, path);
-        solve(root->right, target-root->val, path);
-        path.pop_back(); //pops 7 after reaching null,dead end 5,8,13 comes here to pop
+        temp.push_back(root->val); //push
+
+        if(!root->left && !root->right && target == root->val){ //check
+            res.push_back(temp);
+            return;
+        }
+        //recursive calls
+        solve(root->left, target-root->val, temp);
+        solve(root->right, target-root->val, temp); //goes till leaf
+
+        //pop_back: not needed since not passed by the reference
+        // temp.pop_back(); // recursive call pop backs teh pointers but not the vector since passing by reference
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        vector<int>path;
-        solve(root, targetSum, path);
+        vector<int>temp;
+        if(!root) return res;
+        solve(root, targetSum, temp);
         return res;
     }
 };
