@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
+| [1005-univalued-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Tanuja2123/leetcode./tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Tanuja2123/leetcode./tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Tanuja2123/leetcode./tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Tanuja2123/leetcode./tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Tanuja2123/leetcode./tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/0637-average-of-levels-in-binary-tree) |
 | [0832-binary-tree-pruning](https://github.com/Tanuja2123/leetcode./tree/master/0832-binary-tree-pruning) |
 | [0904-leaf-similar-trees](https://github.com/Tanuja2123/leetcode./tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Tanuja2123/leetcode./tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tanuja2123/leetcode./tree/master/1114-binary-search-tree-to-greater-sum-tree) |
