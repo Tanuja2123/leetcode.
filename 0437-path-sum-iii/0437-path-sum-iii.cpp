@@ -12,14 +12,14 @@
 class Solution {
 public:
     int solve(TreeNode* root, long long target){
-        if(!root) return 0 ;
-        int count=0;
-        if(target==root->val) count++;
-        count += solve(root->left, target-root->val);
-        count += solve(root->right, target-root->val);
+        if(!root) return 0;
+        int count =0;
+        if(target== root->val) count++;
+        count += solve(root->left, target- root->val);
+        count += solve(root->right, target- root->val);
         return count;
     }
-    int pathSum(TreeNode* root, int targetSum) {
+     int pathSum(TreeNode* root, int targetSum) {
         if(!root ) return 0;
         //o(n^2) to call this function for all the children, left and right called for this function again
         return solve(root, (long long )targetSum) + pathSum(root->right, targetSum) + pathSum(root->left, targetSum);
