@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/Tanuja2123/leetcode./tree/master/1127-last-stone-weight) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1331-path-with-maximum-gold](https://github.com/Tanuja2123/leetcode./tree/master/1331-path-with-maximum-gold) |
+| [1390-four-divisors](https://github.com/Tanuja2123/leetcode./tree/master/1390-four-divisors) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 | [3541-report-spam-message](https://github.com/Tanuja2123/leetcode./tree/master/3541-report-spam-message) |
 | [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/Tanuja2123/leetcode./tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Tanuja2123/leetcode./tree/master/0282-expression-add-operators) |
+| [1390-four-divisors](https://github.com/Tanuja2123/leetcode./tree/master/1390-four-divisors) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Dynamic Programming
 |  |
