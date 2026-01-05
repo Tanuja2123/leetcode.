@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Tanuja2123/leetcode./tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Tanuja2123/leetcode./tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Tanuja2123/leetcode./tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Tanuja2123/leetcode./tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/Tanuja2123/leetcode./tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Tanuja2123/leetcode./tree/master/0282-expression-add-operators) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Tanuja2123/leetcode./tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Tanuja2123/leetcode./tree/master/0222-count-complete-tree-nodes) |
 | [3827-implement-router](https://github.com/Tanuja2123/leetcode./tree/master/3827-implement-router) |
 ## Binary Search Tree
