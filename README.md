@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Tanuja2123/leetcode./tree/master/0231-power-of-two) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Tanuja2123/leetcode./tree/master/3370-smallest-number-with-all-set-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Tanuja2123/leetcode./tree/master/0282-expression-add-operators) |
 | [1390-four-divisors](https://github.com/Tanuja2123/leetcode./tree/master/1390-four-divisors) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Tanuja2123/leetcode./tree/master/3370-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
