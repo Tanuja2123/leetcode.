@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Tanuja2123/leetcode./tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Tanuja2123/leetcode./tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tanuja2123/leetcode./tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Tanuja2123/leetcode./tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Tanuja2123/leetcode./tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tanuja2123/leetcode./tree/master/0079-word-search) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanuja2123/leetcode./tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Tanuja2123/leetcode./tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tanuja2123/leetcode./tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tanuja2123/leetcode./tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tanuja2123/leetcode./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Tanuja2123/leetcode./tree/master/0131-palindrome-partitioning) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tanuja2123/leetcode./tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tanuja2123/leetcode./tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Tanuja2123/leetcode./tree/master/0079-word-search) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
 | [1022-unique-paths-iii](https://github.com/Tanuja2123/leetcode./tree/master/1022-unique-paths-iii) |
