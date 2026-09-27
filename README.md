@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tanuja2123/leetcode./tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Tanuja2123/leetcode./tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Tanuja2123/leetcode./tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/Tanuja2123/leetcode./tree/master/0518-coin-change-ii) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/Tanuja2123/leetcode./tree/master/0895-shortest-path-to-get-all-keys) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanuja2123/leetcode./tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Tanuja2123/leetcode./tree/master/1207-delete-nodes-and-return-forest) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Tanuja2123/leetcode./tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tanuja2123/leetcode./tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanuja2123/leetcode./tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/Tanuja2123/leetcode./tree/master/2696-the-number-of-beautiful-subsets) |
 ## Combinatorics
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tanuja2123/leetcode./tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Tanuja2123/leetcode./tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Tanuja2123/leetcode./tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tanuja2123/leetcode./tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/Tanuja2123/leetcode./tree/master/1127-last-stone-weight) |
 ## Merge Sort
 |  |
@@ -448,4 +453,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tanuja2123/leetcode./tree/master/0207-course-schedule) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tanuja2123/leetcode./tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
