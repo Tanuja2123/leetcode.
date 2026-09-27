@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Tanuja2123/leetcode./tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Tanuja2123/leetcode./tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Tanuja2123/leetcode./tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Tanuja2123/leetcode./tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Tanuja2123/leetcode./tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Tanuja2123/leetcode./tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Tanuja2123/leetcode./tree/master/0063-unique-paths-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Tanuja2123/leetcode./tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanuja2123/leetcode./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Tanuja2123/leetcode./tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Tanuja2123/leetcode./tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Tanuja2123/leetcode./tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Tanuja2123/leetcode./tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tanuja2123/leetcode./tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tanuja2123/leetcode./tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tanuja2123/leetcode./tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanuja2123/leetcode./tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Tanuja2123/leetcode./tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tanuja2123/leetcode./tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Tanuja2123/leetcode./tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Tanuja2123/leetcode./tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Tanuja2123/leetcode./tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Tanuja2123/leetcode./tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Tanuja2123/leetcode./tree/master/0131-palindrome-partitioning) |
